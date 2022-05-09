@@ -1,8 +1,8 @@
-### Hi, I'm Amy!
+## Hi, I'm Amy!
 
 ✨[check out my portfolio here!][website]✨
 
-## I'm a frontend developer from Chicago, IL
+### I'm a frontend developer from Chicago, IL
 - ♀️ Pronouns: she/her
 - 💻 I’m currently working on a Wordpress blog template
 - 👯 I’m looking to collaborate on open source projects
