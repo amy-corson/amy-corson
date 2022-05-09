@@ -10,7 +10,7 @@
 ### Languages and Tools
 - React
 - Javascript
-- Css
+- CSS
 - SCSS/Sass
 - HTML
 - Github
