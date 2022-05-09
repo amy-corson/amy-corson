@@ -1,6 +1,4 @@
-## Hi, I'm Amy!
-
-✨[check out my portfolio here!][website]✨
+## Hi, I'm Amy! ➡️ [Portfolio Site][website]
 
 ### I'm a frontend developer from Chicago, IL
 - ♀️ Pronouns: she/her
