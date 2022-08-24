@@ -14,6 +14,7 @@
 - HTML
 - Github
 - VSCode
+- Leaflet
 
 
 
