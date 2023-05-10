@@ -1,7 +1,8 @@
 ## Hi, I'm Amy! ➡️ [Portfolio Site][website]
 
 ### I'm a frontend developer from Chicago, IL
-- ♀️ Pronouns: she/her
+- I help maintain the front end of [Ghost Bus][ghostbus] as a member of ChiHackNight.
+- Day to day I contribute to OpenTripPlanner with IBI Group. You can find my work on OpenTripPlanner at @amy-corson-ibigroup.
 
 ### Languages and Tools
 - React
@@ -16,7 +17,7 @@
 
 
 [website]: https://amycorson.com
-[a11y]:https://www.a11yproject.com/checklist/
+[ghostbus]:https://ghostbuses.com/
 
 
 
